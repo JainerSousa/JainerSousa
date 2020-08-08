@@ -1,5 +1,12 @@
-### Hi there 👋
+### Hi, I'm Jainer Sousa! 👋
 
+<p>💻 Full Stack Web Developer</p>
+<p>✨ MEAN Stack (MongoDB + Express + Angular + NodeJS)</p>
+
+
+### Find me elsewhere 🌎
+
+💼 <a href="https://www.linkedin.com/in/jainer-sousa-46a6011a1/">Linkedin</a>
 <!--
 **JainerSousa/JainerSousa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
