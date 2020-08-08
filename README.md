@@ -20,4 +20,16 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+
+### O que deve ter no seu README?
+
+- Uma breve apresentação sobre você
+- Seus contatos. (Email, LinkedIn, Blog...)
+- Aonde você trabalha atualmente
+- O que você está estudando
+- Em que você procura colaborar
+- Com o que você pode ajudar quem estiver precisando
+- Como entrar com contato com você
+
+Uma dica é manter o perfil clean, com foco nos principais pontos.
 -->
